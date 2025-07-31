@@ -1,0 +1,7 @@
+/home/shinapri/Documents/WorldProject/elysium/elysiumx/build/CMakeFiles/elysiumx.dir
+/home/shinapri/Documents/WorldProject/elysium/elysiumx/build/CMakeFiles/edit_cache.dir
+/home/shinapri/Documents/WorldProject/elysium/elysiumx/build/CMakeFiles/rebuild_cache.dir
+/home/shinapri/Documents/WorldProject/elysium/elysiumx/build/CMakeFiles/list_install_components.dir
+/home/shinapri/Documents/WorldProject/elysium/elysiumx/build/CMakeFiles/install.dir
+/home/shinapri/Documents/WorldProject/elysium/elysiumx/build/CMakeFiles/install/local.dir
+/home/shinapri/Documents/WorldProject/elysium/elysiumx/build/CMakeFiles/install/strip.dir

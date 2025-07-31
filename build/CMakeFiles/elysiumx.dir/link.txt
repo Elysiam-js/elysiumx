@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/elysiumx.dir/link.d CMakeFiles/elysiumx.dir/src/main.cpp.o CMakeFiles/elysiumx.dir/src/parser.cpp.o -o elysiumx
